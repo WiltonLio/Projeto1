@@ -5,6 +5,7 @@ using namespace std;
 
 int main (void){
      
+     
      string nome_do_usuario;
      cout << "Digite o seu nome: ";
      cin  >> nome_do_usuario;
