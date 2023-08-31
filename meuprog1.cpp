@@ -15,4 +15,3 @@ int main (void){
 return 0;
 
 }
-throw_with_nested()
